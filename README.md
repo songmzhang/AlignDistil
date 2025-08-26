@@ -1,4 +1,5 @@
 # AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation (ACL2025)
+<small>[Songming Zhang](https://songmzhang.github.io/), Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen*, Jinan Xu</small>
 
 Our code is based on [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) v0.5.2.post2 (We are also updating our codebase to the latest OpenRLHF).
 
