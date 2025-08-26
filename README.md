@@ -4,7 +4,9 @@ Code for ACL 2025 Paper "AlignDistil: Token-Level Language Model Alignment as Ad
 Our code is based on [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) v0.5.2.post2.
 
 ## Method Framework
-![figure](images/method.png)
+<div style="text-align: center;">
+    <img src="images/method.png" alt="figure" width="60%">
+</div>
 
 Our AlignDistil is easy to use, which contains three steps:
 - Train a DPO model on your preferece data
