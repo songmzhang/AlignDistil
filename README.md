@@ -1,7 +1,12 @@
-# AlignDistil (ACL2025)
-Code for ACL 2025 Paper "AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation"
+# AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation (ACL2025)
 
 Our code is based on [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) v0.5.2.post2 (We are also updating our codebase to the latest OpenRLHF).
+
+## Why use AlignDistil?
+- **Token**-level reward optimization
+- Solid performance
+- Stable optimization and Faster convergence
+- Support both on-policy (like RL) and off-policy training (like DPO)
 
 ## Method Framework
 <div align="center">
@@ -46,7 +51,7 @@ bash ./train_scripts/ultrafeedback/qwen2.5-1.5b/aligndistil_on_policy.sh
 ```
 
 ## Citation
-If you find this repo helpful, please cite:
+If you find this repo helpful, please cite our paper:
 ```text
 @article{zhang2025aligndistil,
   title={Aligndistil: Token-level language model alignment as adaptive policy distillation},
