@@ -5,7 +5,7 @@ Our code is based on [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) v0.5.2.pos
 
 ## Method Framework
 <div align="center">
-    <img src="images/method.png" alt="alignDistil framework" width="60%">
+    <img src="images/framework.png" alt="alignDistil framework" width="60%">
 </div>
 <!-- ![figure](images/method.png) -->
 
